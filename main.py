@@ -25,7 +25,7 @@ token = input("Input Token>>")
 async def on_ready():
  os.system('cls')
  print(f'''
-{Fore.RED} By Mr.Cuda
+{Fore.RED} By Mr-Cuda
 {Fore.LIGHTRED_EX} DM = 1
 ''')
  discord = input(f"{Fore.GREEN}Select : ")
